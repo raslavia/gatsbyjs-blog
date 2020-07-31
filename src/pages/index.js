@@ -59,12 +59,3 @@ export const query = graphql`
     }
   }
 `
-// <form
-// name="country"
-// method="post"
-// data-netlify="true"
-// data-netlify-honeypot="bot-field"
-// >
-// <input type="text" name="name" placeholder="name" />
-// <button>submit</button>
-// </form>
