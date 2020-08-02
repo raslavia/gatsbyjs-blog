@@ -28,7 +28,8 @@ export default ({ data }) => (
       populated regions. Its 4.5 billion people (as of June 2019) constitute
       roughly 60% of the world's population
     </div>
-    <h3>{data.allMarkdownRemark.totalCount}</h3>
+    <p>Check out <Link to='/tags/'>tags</Link></p>
+    <h3>Number of countries: {data.allMarkdownRemark.totalCount}</h3>
     {data.allMarkdownRemark.edges.map(({ node }) => (
       <div key={node.id}>
         <Link to={node.fields.slug}>{node.frontmatter.title}</Link>

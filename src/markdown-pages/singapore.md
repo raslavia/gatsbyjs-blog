@@ -1,7 +1,7 @@
 ---
 title: "Singapore"
 date: "2020-07-29"
-tags: ["mountains", "skycrapers"]
+tags: ["botanic garden", "skycrapers"]
 ---
 
 The English name of [Singapore](https://en.wikipedia.org/wiki/Singapore) is an anglicisation of the native Malay name for the country, Singapura, which was in turn derived from the Sanskrit word for lion city (romanised: Siṃhapura; literally "lion city"; siṃha means "lion", pura means "city" or "fortress"). A Chinese account from the third century referred to a place as Pú Luó Zhōng (Chinese: 蒲 羅 中), which sounds like Malay for "island at the end of a peninsula". Early references to the name Temasek (or Tumasik) are found in the Nagarakretagama, a Javanese epic poem written in 1365, and a Vietnamese source from the same time period. The name possibly means "Sea Town", being derived from the Malay tasek, meaning "sea" or "lake". The Chinese traveller Wang Dayuan visited a place around 1330 named Danmaxi (Chinese: 淡馬錫; pinyin: Dānmǎxí; Wade–Giles: Tan Ma Hsi) or Tam ma siak, depending on pronunciation. Danmaxi may be a transcription of Temasek, alternatively, it may be a combination of the Malay Tanah meaning "land", and Chinese Xi meaning "tin", which was traded on the island.
